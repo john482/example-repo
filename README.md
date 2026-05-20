@@ -1,4 +1,4 @@
-### Nike Shoe Inventory Manager
+# Nike Shoe Inventory Manager
 
 A command-line inventory management system built in Python using Object-Oriented Programming (OOP) principles.
 
